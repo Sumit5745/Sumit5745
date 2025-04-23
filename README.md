@@ -132,6 +132,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Sumit5745&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Sumit5745&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    <br><br>
+    <h3>📈 3D Contribution Calendar</h3>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%">
   </div>
 </details>
 
