@@ -91,7 +91,7 @@ A modern boat rental platform built with a scalable microservices architecture. 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Sumit5745/Sumit5745/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">⭐️ From <a href="https://github.com/Sumit5745">Chavada Sanni</a></p>
