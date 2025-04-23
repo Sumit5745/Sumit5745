@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <style>
+    .text { font: bold 60px sans-serif; fill: #0366d6; }
+  </style>
+  <rect width="900" height="150" fill="#f6f8fa"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
+    Snake animation loading...
+  </text>
+</svg>
