@@ -22,3 +22,17 @@ I'm a passionate Full Stack Developer specializing in building scalable microser
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Node.js, TypeScript, MongoDB, Microservices**
 - ⚡ Fun fact: I love sailing and exploring the ocean, which inspired my Sea Escape project!
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit5745&show_icons=true&theme=tokyonight" alt="Chavada Sanni's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit5745&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit5745&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
