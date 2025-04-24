@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chavada%20Sanni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Microservices%20Architect%20|%20Full%20Stack%20Developer&descAlignY=50&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chavada%20Sanni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Microservices%20Architect%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6AD7F9&center=true&vCenter=true&width=435&lines=Node.js+%26+TypeScript+Expert;MongoDB+Specialist;Microservices+Architecture;API+Design+%26+Development;Cloud+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6AD7F9&center=true&vCenter=true&width=600&lines=Node.js+%26+TypeScript+Expert;MongoDB+Specialist;Microservices+Architecture;API+Design+%26+Development;Cloud+Infrastructure" alt="Typing SVG" />
 </p>
 
 <div align="center">
