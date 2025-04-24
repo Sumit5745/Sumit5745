@@ -23,6 +23,29 @@ I'm a passionate Full Stack Developer specializing in building scalable microser
 - 💬 Ask me about **Node.js, TypeScript, MongoDB, Microservices**
 - ⚡ Fun fact: I love sailing and exploring the ocean, which inspired my Sea Escape project!
 
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Sumit5745/sea-escape-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit5745&repo=sea-escape-backend&theme=tokyonight" alt="Sea Escape Backend" />
+  </a>
+</div>
+
+### 🚢 Sea Escape Backend
+
+A modern boat rental platform built with a scalable microservices architecture. The project includes:
+
+- **Authentication & User Management**: Secure JWT-based authentication with role-based access control
+- **Boat Listings & Search**: Comprehensive boat listing management with advanced search capabilities
+- **Booking System**: Real-time availability checking and reservation management
+- **Payment Processing**: Secure payment handling with multiple payment methods
+- **Reviews & Ratings**: Detailed review system for boats and owners
+- **Multi-language Support**: Internationalization for global users
+
+**Tech Stack:** Node.js, TypeScript, Express, MongoDB, Docker, Redis, JWT
+
+[View Repository](https://github.com/Sumit5745/sea-escape-backend)
+
 ## 📊 GitHub Stats
 
 <div align="center">
