@@ -118,3 +118,13 @@ A modern boat rental platform built with a scalable microservices architecture. 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumit5745&style=flat-square&color=blue" alt="Profile Views" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Sumit5745">Chavada Sanni</a></p>
