@@ -37,7 +37,7 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit5745&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumit5745&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit5745&theme=react&hide_border=true" alt="GitHub Streak" />
     </td>
@@ -58,7 +58,7 @@
 <!-- Sea Escape Project Card -->
 <div align="center">
   <a href="https://github.com/Sumit5745/sea-escape-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit5745&repo=sea-escape-backend&theme=react&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&text_color=FFFFFF" alt="Sea Escape Backend" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumit5745&repo=sea-escape-backend&theme=react&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&text_color=FFFFFF" alt="Sea Escape Backend" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@
     <td width="60%">
       <h3 align="center">🚢 Sea Escape Backend</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/600x300/0D1117/3498DB?text=Sea+Escape+Platform" width="100%" alt="Sea Escape Project" />
+        <img src="https://raw.githubusercontent.com/Sumit5745/Sumit5745/main/assets/sea-escape-banner.png" width="100%" alt="Sea Escape Project" onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif';" />
         <br><br>
         <p align="center">
           <a href="https://github.com/Sumit5745/sea-escape-backend">
@@ -115,7 +115,7 @@
     <td>
       <h3 align="center">🏗️ Microservices Architecture</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/800x400/0D1117/3498DB?text=Microservices+Architecture+Diagram" width="100%" alt="Architecture Diagram" />
+        <img src="https://raw.githubusercontent.com/Sumit5745/Sumit5745/main/assets/architecture-diagram.png" width="100%" alt="Architecture Diagram" onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f19bf3b0c.gif';" />
       </div>
       <br>
       <p align="center">
@@ -204,10 +204,7 @@
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sumit5745&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sumit5745&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    <br><br>
-    <h3>📈 3D Contribution Calendar</h3>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumit5745&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   </div>
 </details>
 
@@ -248,7 +245,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Sumit5745/Sumit5745/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Sumit5745/Sumit5745/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg';" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=120&section=footer" />
